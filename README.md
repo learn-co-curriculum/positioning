@@ -9,9 +9,9 @@ in the same place inside the browser window no matter how much the page is scrol
 such as a "sticky" navigation bar? Positioning is your go-to.
 
 ## Objectives
-1. Explain how to use posiiton elements with CSS
+1. Explain how to use position elements with CSS
 
-## Explain How to Use Posiiton Elements With CSS
+## Explain How to Use Position Elements With CSS
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/dsG_btGNkI8?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=dsG_btGNkI8">Positioning</a></p>
 
